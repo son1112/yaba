@@ -1,0 +1,42 @@
+*YABA*
+
+: Yet Another Budgeting App
+
+* App :noexport:
+- built with 
+  - ruby
+  - shoes
+
+** Backend
+*** Interface
+    - desktop
+    - web
+    - mobile
+*** Data Structure
+    [[./lib/core.rb]]
+    ./lib/core
+   
+*** Configuration
+   
+** Frontend
+*** Interface
+**** DESKTOP
+    
+    
+
+**** WEB
+**** MOBILE
+
+*** Design
+
+    - google calendar asthetics and maleability
+** NB: For the diggers
+*** This README
+    - was built with emacs org-mode
+** TODO
+
+   - [ ] document with yard
+   - [ ] build shoes desktop app
+     - calendar-like interface
+   - [ ] build core ruby app
+     - handles calculations, data management
